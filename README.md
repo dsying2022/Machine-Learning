@@ -1,2 +1,2 @@
 # Machine-Learning
-练习
+手动实现机器学习经典算法
